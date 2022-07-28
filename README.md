@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @deborageovanamoraes15
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- ❤️ Eu gosto de animais 
+- 👋 Oi,eu sou Débora Geovana 
+- 👀 Eu estou interessada a programar novas linguagens 
+- 🌱 Eu estou aprendendo recentemente a linguagem de javascript e Scratch 
+
 
 <!---
 deborageovanamoraes15/deborageovanamoraes15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

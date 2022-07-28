@@ -1,6 +1,6 @@
 
-- ❤️ Eu gosto de animais 
-- 👋 Oi,eu sou Débora Geovana 
+- ❤️ Eu amo animais 
+- 👋 Oi,eu sou **Débora Geovana**
 - 👀 Eu estou interessada a programar novas linguagens 
 - 🌱 Eu estou aprendendo recentemente a linguagem de javascript e Scratch 
 
